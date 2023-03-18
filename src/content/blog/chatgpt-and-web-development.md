@@ -2,7 +2,7 @@
 title: "How to Step Up Your Coding Game with ChatGPT"
 description: "Are you looking for a way to enhance your coding skills and take your programming to the next level? ChatGPT, an advanced language model powered by OpenAI, can help you achieve just that. In this blog post, we'll explore how ChatGPT can help you step up your coding game."
 pubDate: "Aug 17 2023"
-heroImage: "/chatgpt-blog-post.avif"
+heroImage: "/chatgpt-blog-post.jpg"
 ---
 
 Are you looking for a way to enhance your coding skills and take your programming to the next level? ChatGPT, an advanced language model powered by OpenAI, can help you achieve just that. In this blog post, we'll explore how ChatGPT can help you step up your coding game.

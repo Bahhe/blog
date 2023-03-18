@@ -36,11 +36,11 @@ font-style: italic;
 <h1 class="title">{title}</h1>
 <FormattedDate date={pubDate} />
 {
-  updatedDate && (
-    <div class="last-updated-on">
-      Last updated on <FormattedDate date={updatedDate} />
-    </div>
-  )
+updatedDate && (
+<div class="last-updated-on">
+  Last updated on <FormattedDate date={updatedDate} />
+</div>
+)
 }
 <hr />
 <slot />
